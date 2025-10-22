@@ -45,7 +45,7 @@ Passionné par la **qualité logicielle** et les **architectures scalables**. Je
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinDess&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-pi-opal-25.vercel.app/api/top-langs/?username=QuentinDess&layout=compact&theme=tokyonight)
 
 > 💡 *Note : Les stats ne reflètent que mes repos publics. La majorité de mon travail se fait sur des repos privés et organisations.*
 
