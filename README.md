@@ -12,11 +12,10 @@ Passionné par la **qualité logicielle** et les **architectures scalables**. Je
 
 ## 🚀 Ce que je fais
 
-- **Architecture & Design** : Conception de systèmes CQRS, hexagonaux et résilients
-- **DevOps & CI/CD** : Pipelines GitHub Actions, Docker multi-stage, automatisation
-- **Quality First** : PHPStan niveau max, tests automatisés, code reviews exigeantes
-- **Mentorat** : Accompagnement des équipes, définition de standards et bonnes pratiques
-
+- **Architecture & Scalabilité** : Conception d'architectures hexagonales et CQRS pour des systèmes résilients et maintenables
+- **DevOps & Automatisation** : Pipelines CI/CD avec GitHub Actions, images Docker multi-stage avec FrankenPHP, optimisation des workflows de déploiement
+- **Qualité Logicielle** : Implémentation de PHPStan, PHP-CS-Fixer, grumphp avec stratégie de test complète et reporting de couverture
+- **Leadership Technique** : Mentorat des développeurs, définition de standards, conception d'agents IA pour améliorer la productivité (Claude Code, Cursor)
 ---
 
 ## 💻 Stack Technique
@@ -54,4 +53,5 @@ Passionné par la **qualité logicielle** et les **architectures scalables**. Je
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentin-dessartine/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quentin.dessartine@gmail.com)
 
----
+
+
