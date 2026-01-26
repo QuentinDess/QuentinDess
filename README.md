@@ -5,7 +5,7 @@
 Passionné par la **qualité logicielle** et les **architectures scalables**. Je conçois des systèmes robustes avec Symfony, API Platform et PostgreSQL, en appliquant des patterns comme l'architecture hexagonale et CQRS.
 
 📍 Basé à Lyon & Périphérie  
-💼 Actuellement Senior Full Stack chez [Meeko](https://www.meeko.pro)  
+💼 Actuellement Software Engineer Senior chez [Meeko](https://www.meeko.pro)  
 🎯 Spécialisé dans la conception d'APIs RESTful, microservices et DevOps
 
 ---
